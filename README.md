@@ -6,7 +6,7 @@ The Scientific Computing Facility provides a unified service to assist researche
 
 | Photo | Name | Job Title | Team | Bio |
 | --- | --- | --- | --- | --- |
-| <img src="https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/blob/master/Ian_Image.png" width="100">| Ian Henry | Facility Leader | | Info here |
+| <img src="./Ian_Image.png" width="100">| Ian Henry | Facility Leader | | Info here |
 | <img src="https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/blob/master/Holger_Image.png" width="100">| Holger Brandl | Senior Data Engineer | Bioinformatics | Info here |
 | <img src="https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/blob/master/Lena_Image.png" width="100">| Lena Hersemann | Bioinformatician | Bioinformatics | Info here |
 | <img src="https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/blob/master/Peter_Image.png" width="100">| Peter Steinbach | HPC Developer | Scientific Software Development | Info here |
