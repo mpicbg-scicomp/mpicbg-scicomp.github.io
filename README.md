@@ -1,4 +1,5 @@
 | Overview | Bioinformatics | Scientific Software Development | HPC | Teaching
+| --- | --- | --- | --- | --- |
 
 ## Scientific Computing Facility Overview
 
