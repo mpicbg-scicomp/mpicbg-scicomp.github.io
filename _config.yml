@@ -1,7 +1,10 @@
+title: Test title
+
 theme: jekyll-theme-cayman
 
+
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
-name: MPI-CBG Scientific Computing Facility
+name: Test name
 
 # Short description (goes below the title; it will also be used in the RSS feed)
-description: test
+description: test desc
