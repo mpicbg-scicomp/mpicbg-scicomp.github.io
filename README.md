@@ -6,13 +6,13 @@ The Scientific Computing Facility provides a unified service to assist researche
 
 |  | Name | Job Title | Interests |
 | --- | --- | --- | --- |
-| <img src="./Ian_Image.png" width="100">| Ian Henry | Facility Leader | Info here |
-| <img src="./Holger_Image.jpg" width="100">| Holger Brandl | Senior Data Engineer | Info here |
-| <img src="./Lena_Image.jpg" width="100">| Lena Hersemann | Bioinformatician | Info here |
-| <img src="./Peter_Image.jpg" width="100">| Peter Steinbach | HPC Developer | Info here |
-| <img src="./HongKee_Image.jpg" width="100">| HongKee Moon | Senior Software Developer | Info here |
-| <img src="./Benoit_Image.jpg" width="100">| Benoit Lombardot | Senior Image Analyst | Info here |
-| <img src="./Gayathri_Image.jpg" width="100">| Gayathri Nadar | Image Analyst | Info here |
+| <img src="./Ian_Image.png" width="70">| Ian Henry | Facility Leader | Info here |
+| <img src="./Holger_Image.jpg" width="70">| Holger Brandl | Senior Data Engineer | Info here |
+| <img src="./Lena_Image.jpg" width="70">| Lena Hersemann | Bioinformatician | Info here |
+| <img src="./Peter_Image.jpg" width="70">| Peter Steinbach | HPC Developer | Info here |
+| <img src="./HongKee_Image.jpg" width="70">| HongKee Moon | Senior Software Developer | Info here |
+| <img src="./Benoit_Image.jpg" width="70">| Benoit Lombardot | Senior Image Analyst | Info here |
+| <img src="./Gayathri_Image.jpg" width="70">| Gayathri Nadar | Image Analyst | Info here |
 
 ### Bioinformatics Team
 
