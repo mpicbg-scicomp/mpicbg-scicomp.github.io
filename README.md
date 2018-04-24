@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Scientific Computing Facility Overview
 
-You can use the [editor on GitHub](https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Scientific Computing Facility provides a unified service to assist researchers in the tackling of scientific questions involving computational analysis, data handling and image processing.  The nature of modern biological research and the movement from small scale studies to analysis of data on a global scale (genomics, transcriptomics, proteomics) requires significant computational analysis and expertise across a wide variety of fields. Modern studies often produce multiple types of 'omics data and may also include high throughput imaging data, thus requiring techniques ranging from biological sequences analysis through to image processing/analysis.  The Scientific Computing Facility combines expertise in bioinformatics data analysis, bioimage analysis and software development to produce robust workflows, algorithms and tools for the analysis, exploration and visualization of large complex datasets of mixed datatypes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Bioinformatics Team
 
-### Markdown
+The bioinformatics team assists MPI-CBG scientists with a wide range of bioinformatics data analysis tasks.  Services range from small scale single gene or protein characterization up to global studies involving deep sequencing technologies.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Scientific Software Development Team
 
-```markdown
-Syntax highlighted code block
+The scientific software development team designs, constructs, and deploys scientific applications within the MPI-CBG. It also ensures that software created within the institute is of the highest quality.
 
-# Header 1
-## Header 2
-### Header 3
+### BioImage Informatics Team
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mpicbg-scicomp/mpicbg-scicomp.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The BioImage informatics team provides informatics tools and training to support the analysis of images in biological studies.  
