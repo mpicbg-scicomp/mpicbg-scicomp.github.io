@@ -2,6 +2,18 @@
 
 The Scientific Computing Facility provides a unified service to assist researchers in the tackling of scientific questions involving computational analysis, data handling and image processing.  The nature of modern biological research and the movement from small scale studies to analysis of data on a global scale (genomics, transcriptomics, proteomics) requires significant computational analysis and expertise across a wide variety of fields. Modern studies often produce multiple types of 'omics data and may also include high throughput imaging data, thus requiring techniques ranging from biological sequences analysis through to image processing/analysis.  The Scientific Computing Facility combines expertise in bioinformatics data analysis, bioimage analysis and software development to produce robust workflows, algorithms and tools for the analysis, exploration and visualization of large complex datasets of mixed datatypes.
 
+## Team Members
+
+| Photo | Name | Job Title | Team | Bio |
+| --- | --- | --- | --- | --- |
+| Photo| Ian Henry | Facility Leader | | Info here |
+| Photo| Holger Brandl | Senior Data Engineer | Bioinformatics | Info here |
+| Photo| Lena Hersemann | Bioinformatician | Bioinformatics | Info here |
+
+
+
+Facility Leader: Ian Henry
+
 ### Bioinformatics Team
 
 The bioinformatics team assists MPI-CBG scientists with a wide range of bioinformatics data analysis tasks.  Services range from small scale single gene or protein characterization up to global studies involving deep sequencing technologies.
