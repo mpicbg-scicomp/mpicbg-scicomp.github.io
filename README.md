@@ -6,13 +6,13 @@ The Scientific Computing Facility provides a unified service to assist researche
 
 | Photo | Name | Job Title | Team | Bio |
 | --- | --- | --- | --- | --- |
-| Photo| Ian Henry | Facility Leader | | Info here |
+| ![Ian_image](/images/ian.png)| Ian Henry | Facility Leader | | Info here |
 | Photo| Holger Brandl | Senior Data Engineer | Bioinformatics | Info here |
 | Photo| Lena Hersemann | Bioinformatician | Bioinformatics | Info here |
-
-
-
-Facility Leader: Ian Henry
+| Photo| Peter Steinbach | HPC Developer | Scientific Software Development | Info here |
+| Photo| HongKee Moon | Senior Software Developer | Scientific Software Development | Info here |
+| Photo| Benoit Lombardot | Senior Image Analyst | BioImage Informatics | Info here |
+| Photo| Gayathri Nadar | Image Analyst | BioImage Informatics | Info here |
 
 ### Bioinformatics Team
 
