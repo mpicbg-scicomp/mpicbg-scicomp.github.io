@@ -4,7 +4,7 @@ The Scientific Computing Facility provides a unified service to assist researche
 
 ## Team Members
 
-|  | Name | Job Title | Bio |
+|  | Name | Job Title | Interests |
 | --- | --- | --- | --- |
 | <img src="./Ian_Image.png" width="100">| Ian Henry | Facility Leader | Info here |
 | <img src="./Holger_Image.jpg" width="100">| Holger Brandl | Senior Data Engineer | Info here |
