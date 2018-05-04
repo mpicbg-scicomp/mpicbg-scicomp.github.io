@@ -1,4 +1,4 @@
-| Overview | Bioinformatics | Scientific Software Development | HPC | Teaching
+| [Overview](../README.md) | Bioinfo | [BioImage analysis](../biis/index.md) | [Scientific Software Dev](../scidev/index.md) | [HPC](../hpc/index.md) | [Teaching](../teaching/index.md)
 
 ## Bioinformatics Team
 
