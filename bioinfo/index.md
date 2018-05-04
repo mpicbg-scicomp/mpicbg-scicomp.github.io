@@ -16,7 +16,7 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   <tr><td colspan="3"></td></tr>
   
   <tr>
-    <td colspan="3" style="background:red;"><b>Steps common to all workflows</b></td>
+    <td colspan="3" style="background:#c53233;"><b>Steps common to all workflows</b></td>
   </tr>
     <tr>
     <td>Reads QC</td>
@@ -32,7 +32,7 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   <tr><td colspan="3"></td></tr>
   
   <tr>
-  <td colspan="3" style="background:blue;"><b>Transcriptome Profiling*</b></td>
+  <td colspan="3" style="background:#2b67ac;"><b>Transcriptome Profiling*</b></td>
   </tr>
     <tr>
     <td>Alignment</td>
