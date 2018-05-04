@@ -16,7 +16,7 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   <tr><td colspan="3"></td></tr>
   
   <tr>
-    <td colspan="3" style="background:#c53233;"><b>Steps common to all workflows</b></td>
+    <td colspan="3" style="background:#c53233;color:white;text-shadow: 2px 2px 5px black;"><b>Steps common to all workflows</b></td>
   </tr>
     <tr>
     <td>Reads QC</td>
