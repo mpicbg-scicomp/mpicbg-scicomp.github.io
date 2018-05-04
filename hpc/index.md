@@ -2,7 +2,7 @@
 
 |  | Name | Job Title | Interests |
 | --- | --- | --- | --- |
-| <img src="./Peter_Image.jpg" width="70">| Peter Steinbach | HPC Developer | Info here |
+| <img src="../Peter_Image.jpg" width="70">| Peter Steinbach | HPC Developer | Info here |
 
 ## HPC Services
 
