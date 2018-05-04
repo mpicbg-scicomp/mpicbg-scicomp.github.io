@@ -12,16 +12,16 @@ The scientific software development team designs, constructs, and deploys scient
 ## Scientific Software Development Services
 
 * Design, implement, deploy and maintain software applications for
-** Presentation and display of scientific data to the community
-** Intuitive use of sophisticated complex algorithms/workflows for
-*** Wet-lab biologists @ MPI-CBG
-*** Scientific community as a whole
+  * Presentation and display of scientific data to the community
+  * Intuitive use of sophisticated complex algorithms/workflows for
+    * Wet-lab biologists @ MPI-CBG
+    * Scientific community as a whole
 
 * Guidance support and training to
-** Help scientists improve research code and turn it into distributable applications
+  * Help scientists improve research code and turn it into distributable applications
 and packages
-** Improve algorithm efficiency and parallelization of code to improve processing speed
-** Port code to HPC platforms (cluster, GPGPU)
+  * Improve algorithm efficiency and parallelization of code to improve processing speed
+  * Port code to HPC platforms (cluster, GPGPU)
 
 ## Publications
 <style type="text/css">
