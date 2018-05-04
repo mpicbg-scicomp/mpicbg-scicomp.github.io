@@ -1,4 +1,4 @@
-| [Overview](../README.md) | Bioinfo(../bioinfo/index.md) | BioImage analysis | [Scientific Software Dev](../scidev/index.md) | [HPC](../hpc/index.md) | [Teaching](../teaching/index.md)
+| [Overview](../README.md) | [Bioinfo](../bioinfo/index.md) | BioImage analysis | [Scientific Software Dev](../scidev/index.md) | [HPC](../hpc/index.md) | [Teaching](../teaching/index.md)
 
 ## BioImage Informatics Team
 
