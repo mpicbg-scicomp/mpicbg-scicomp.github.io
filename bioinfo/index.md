@@ -7,11 +7,11 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 
 ### NGS applications
 <table style="text-align:center;">
-  <th>
-    <td><b>Step1</b></td>
-    <td><b>Tool</b></td>
-    <td><b>Deliverable</b></td>
-  </th>
+  <tr>
+    <th><b>Step</b></th>
+    <th><b>Tool</b></th>
+    <th><b>Deliverable</b></th>
+  </tr>
   
   <tr><td colspan="3"></td></tr>
   
