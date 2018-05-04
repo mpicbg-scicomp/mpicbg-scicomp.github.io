@@ -167,6 +167,7 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
         /*color:yellow;*/
     }
 </style>
+#### 2018
 <p class="publication">Marta Florio, Michael Heide, Anneline Pinson, Holger Brandl, Mareike Albert, Sylke Winkler, Pauline Wimberger, Wieland B. Huttner, Michael Hiller<br/>
 <span class="pubtitle">Evolution and cell-type specificity of human-specific genes preferentially expressed in progenitors of fetal neocortex.</span><br/>
 <span class="journal_name">Elife</span>, 7 Art. No. e32332 (2018)</p>
@@ -178,7 +179,7 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <p class="publication">Ioannis Mitroulis, Klara Ruppova, Baomei Wang, Lan-Sun Chen, Michal Grzybek, Tatyana Grinenko, Anne Eugster, Maria Troullinaki, Alessandra Palladini, Ioannis Kourtzelis, Antonios Chatzigeorgiou, Andreas Schlitzer, Marc Beyer, Leo A B Joosten, Berend Isermann, Mathias Lesche, Andreas Petzold, Kai Simons, Ian Henry, Andreas Dahl, Joachim L Schultze, Ben Wielockx, Nicola Zamboni, Peter Mirtschink, Ünal Coskun, George Hajishengallis, Mihai G Netea, Trian  Chavakis<br/>
 <span class="pubtitle">Modulation of Myelopoiesis Progenitors Is an Integral Component of Trained Immunity.</span><br/>
 <span class="journal_name">Cell</span>, 172(1-2) 147-161 (2018)</p>
-
+#### 2017
 <p class="publication">Ivana Viktorinová, Ian Henry, Pavel Tomancak<br/>
 <span class="pubtitle">Epithelial rotation is preceded by planar symmetry breaking of actomyosin and protects epithelial tissue from cell deformations.</span><br/>
 <span class="journal_name">PLoS Genet</span>, 13(11) Art. No. 1007107 (2017)</p>
@@ -190,7 +191,7 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <p class="publication">Mareike Albert, Nereo Kalebic, Marta Florio, Naharajan Lakshmanaperumal, Christiane Haffner, Holger Brandl, Ian Henry, Wieland B. Huttner<br/>
 <span class="pubtitle">Epigenome profiling and editing of neocortical progenitor cells during development.</span><br/>
 <span class="journal_name">EMBO J</span>, 36(17) 2642-2658 (2017)</p>
-
+#### 2016
 <p class="publication">Raphael Etournay, Matthias Merkel, Marko Popović, Holger Brandl, Natalie Dye, Benoit Aigouy, Guillaume Salbreux, Suzanne Eaton, Frank Jülicher<br/>
 <span class="pubtitle">TissueMiner: a multiscale analysis toolkit to quantify how cellular processes create tissue dynamics.</span><br/>
 <span class="journal_name">Elife</span>, 5 Art. No. e14334 (2016)</p>
@@ -202,7 +203,7 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <p class="publication">Holger Brandl, HongKee Moon, Miquel Vila-Farré, Shang-Yun Liu, Ian Henry, Jochen Rink<br/>
 <span class="pubtitle">PlanMine - a mineable resource of planarian biology and biodiversity.</span><br/>
 <span class="journal_name">Nucleic Acids Res</span>, 44 Art. No. D764–D773 (2016)</p>
-
+#### 2015
 <p class="publication">Anja Zeigerer, Roman L Bogorad, Kirti Sharma, Jerome Gilleron, Sarah Seifert, Susanne Sales, Nikolaus Berndt, Sascha Bulik, Giovanni Marsico, Rochelle C J D'Souza, Naharajan Lakshmanaperumal, Kesavan Meganathan, Karthick Natarajan, Agapios Sachinidis, Andreas Dahl, Hermann-Georg Holzhütter, Andrej Shevchenko, Matthias Mann, Victor Koteliansky, Marino Zerial<br/>
 <span class="pubtitle">Regulation of Liver Metabolism by the Endosomal GTPase Rab5.</span><br/>
 <span class="journal_name">Cell Rep</span>, 11(6) 884-892 (2015)</p>
@@ -218,15 +219,15 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <p class="publication">Hanh Thi-Kim Vu, Jochen Rink, Sean A McKinney, Melainia McClain, Naharajan Lakshmanaperumal, Richard Alexander, Alejandro Sánchez Alvarado<br/>
 <span class="pubtitle">Stem cells and fluid flow drive cyst formation in an invertebrate excretory organ.</span><br/>
 <span class="journal_name">Elife</span>, 4 Art. No. e07405 (2015)</p>
-
+#### 2014
 <p class="publication">Tatyana Grinenko, Kathrin Arndt, Melanie Portz, Nicole Mende, Marko Günther, Kadriye Nehir Cosgun, Dimitra Alexopoulou, Naharajan Lakshmanaperumal, Ian Henry, Andreas Dahl, Claudia Waskow<br/>
 <span class="pubtitle">Clonal expansion capacity defines two consecutive developmental stages of long-term hematopoietic stem cells.</span><br/>
 <span class="journal_name">J Exp Med</span>, 211(2) 209-215 (2014)</p>
-
+#### 2013
 <p class="publication">Shang-Yun Liu, Claudia Selck, Benjamin Friedrich, Richard Lutz, Miquel Vila-Farré, Andreas Dahl, Holger Brandl, Naharajan Lakshmanaperumal, Ian Henry, Jochen Rink<br/>
 <span class="pubtitle">Reactivating head regrowth in a regeneration-deficient planarian species.</span><br/>
 <span class="journal_name">Nature</span>, 500(7460) 81-84 (2013)</p>
-
+#### 2012
 <p class="publication">Simone Fietz, Robert Lachmann, Holger Brandl, Martin Kircher, Nikolay Samusik, Roland Schröder, Naharajan Lakshmanaperumal, Ian Henry, Johannes Vogt, Axel Riehn, Wolfgang Distler, Robert Nitsch, Wolfgang Enard, Svante Pääbo, Wieland B. Huttner<br/>
 <span class="pubtitle">Transcriptomes of germinal zones of human and mouse fetal neocortex suggest a role of extracellular matrix in progenitor self-renewal.</span><br/>
 <span class="journal_name">Proc Natl Acad Sci U.S.A.</span>, 109(29) 11836-11841 (2012)</p>
@@ -234,11 +235,11 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <p class="publication">Minna-Liisa Änkö, Michaela Müller-McNicoll, Holger Brandl, Tomaz Curk, Crtomir Gorup, Ian Henry, Jernej Ule, Karla M. Neugebauer<br/>
 <span class="pubtitle">The RNA-binding landscapes of two SR proteins reveal unique functions and binding to diverse RNA classes.</span><br/>
 <span class="journal_name">Genome Biol</span>, 13(3) Art. No. R17 (2012)</p>
-
+#### 2011
 <p class="publication">Ivana Viktorinova, Lucie Kucerova, Marta Bohmova, Ian Henry, Marek Jindra, Petr Dolezal, Martina Zurovcova, Michal Zurovec<br/>
 <span class="pubtitle">Characterization of two closely related α-amylase paralogs in the bark beetle, Ips typographus (L.).</span><br/>
 <span class="journal_name">Arch Insect Biochem Physiol</span>, 77(4) 179-198 (2011)</p>
-
+#### 2010
 <p class="publication">Minna-Liisa Änkö, Lucia Morales, Ian Henry, Andreas Beyer, Karla M. Neugebauer<br/>
 <span class="pubtitle">Global analysis reveals SRp20- and SRp75-specific mRNPs in cycling and neural cells.</span><br/>
 <span class="journal_name">Nat Struct Mol Biol</span>, 17(8) 962-970 (2010)</p>
