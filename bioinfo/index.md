@@ -32,7 +32,7 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   <tr><td colspan="3"></td></tr>
   
   <tr>
-  <td colspan="3" style="background:#2b67ac;"><b>Transcriptome Profiling*</b></td>
+  <td colspan="3" style="background:#2b67ac;color:white;text-shadow: 2px 2px 5px black;"><b>Transcriptome Profiling*</b></td>
   </tr>
     <tr>
     <td>Alignment</td>
@@ -48,6 +48,79 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
     <td>Differential Expression</td>
     <td>DESeq2, DEXSeq, CuffDiff</td>
     <td>HTML Report, Tab-delimited files</td>
+  </tr>
+  
+  <tr><td colspan="3"></td></tr>
+  
+  <tr>
+  <td colspan="3" style="background:#2b67ac;color:white;text-shadow: 2px 2px 5px black;"><b><i>De novo</i> Transcriptome Assembly</b></td>
+  </tr>
+    <tr>
+    <td><i>De novo</i> assembly</td>
+    <td>Trinity</td>
+    <td>Fasta file</td>
+  </tr>
+  <tr>
+    <td>Annotation</td>
+    <td>Blastx, InterProScan, HMMer, TreeFAM, BUSCO</td>
+    <td>HTML report and tab delimited files</td>
+  </tr>
+  <tr>
+    <td>Quantification</td>
+    <td>Trinity (RSEM)</td>
+    <td>HTML report and tab delimited files</td>
+  </tr>
+  <tr>
+    <td>Differential Expression</td>
+    <td>EdgeR, DESeq</td>
+    <td>HTML report and tab delimited files</td>
+  </tr>
+  
+  <tr><td colspan="3"></td></tr>
+  
+  <tr>
+  <td colspan="3" style="background:#2b67ac;color:white;text-shadow: 2px 2px 5px black;"><b>ChIP-Seq</b></td>
+  </tr>
+    <tr>
+    <td>Alignment & QC</td>
+    <td>Bowtie2, PicardTools, deepTools</td>
+    <td>Bam files</td>
+  </tr>
+  <tr>
+    <td>Peak Calling</td>
+    <td>Macs2, Sicer</td>
+    <td>Bed files, HTML Report, Tab-delimited files</td>
+  </tr>
+  <tr>
+    <td>Annotation</td>
+    <td>ChIPPeakAnno (R)</td>
+    <td>HTML report and tab delimited files</td>
+  </tr>
+  <tr>
+    <td>Motif Analysis</td>
+    <td>Meme</td>
+    <td>HTML report and tab delimited files</td>
+  </tr>
+  <tr>
+    <td>Differential Binding</td>
+    <td>DiffBind</td>
+    <td>HTML report, Tab-delimited files, charts</td>
+  </tr>
+  
+    <tr><td colspan="3"></td></tr>
+  
+  <tr>
+  <td colspan="3" style="background:#2b67ac;color:white;text-shadow: 2px 2px 5px black;"><b>Variant Calling</b></td>
+  </tr>
+    <tr>
+    <td>Alignment & QC</td>
+    <td>BWA, Bowtie2</td>
+    <td>Bam files</td>
+  </tr>
+  <tr>
+    <td>Variant Calling & QC</td>
+    <td>bcfTools, samtools, pilon</td>
+    <td>Bed files, HTML Report, Tab-delimited files</td>
   </tr>
 </table>
 
