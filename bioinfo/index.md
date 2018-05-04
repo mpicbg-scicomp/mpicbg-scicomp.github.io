@@ -166,62 +166,21 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
 <span class="pubtitle">Epigenome profiling and editing of neocortical progenitor cells during development.</span><br/>
 <span class="journal_name">EMBO J</span>, 36(17) 2642-2658 (2017)</p>
 
-<p class="publication">Peter Steinbach, Matthias Werner<br/>
-<span class="pubtitle">gearshifft – The FFT Benchmark Suite for Heterogeneous Platforms</span><br/>
-<i>
-In: High performance computing ; 32nd international conference, ISC High Performance 2017, Frankfurt, Germany, June 18-22, 2017 : proceedings </i>
-(2017)(Eds.) Julian Kunkel (Lecture Notes in Computer Science ; 10266), Cham, Springer International Publishing (2017), 199-216
-</p>
-
-<p class="publication">Helge Knoop, Tobias Gronemeier, Christoph Knigge, Peter Steinbach<br/>
-<span class="pubtitle">Porting the MPI Parallelized LES Model PALM to Multi-GPU Systems – An Experience Report</span><br/>
-<i>
-In: High performance computing : ISC High Performance 2016 international workshops ExaComm, E-MuCoCoS, HPC-IODC, IXPUG, IWOPH, P^3MA, VHPC, WOPSSS, Frankfurt, Germany, June 19-23, 2016 : revised selected papers</i>
-(2016) Lecture Notes in Computer Science ; 9945, Cham, Springer International Publishing (2016), 508-523
-</p>
-
-<p class="publication">Kristin Stützer, Robert Haase, Fabian Lohaus, Steffen Barczyk, Florian Exner, Steffen Löck, Jan Rühaak, Bianca Lassen-Schmidt, Dörte Corr, Constance Richter<br/>
-<span class="pubtitle">Evaluation of a deformable registration algorithm for subsequent lung computed tomography imaging during radiochemotherapy.</span><br/>
-<span class="journal_name">Med Phys</span>, 43(9) 5028-5028 (2016)</p>
-
 <p class="publication">Raphael Etournay, Matthias Merkel, Marko Popović, Holger Brandl, Natalie Dye, Benoit Aigouy, Guillaume Salbreux, Suzanne Eaton, Frank Jülicher<br/>
 <span class="pubtitle">TissueMiner: a multiscale analysis toolkit to quantify how cellular processes create tissue dynamics.</span><br/>
 <span class="journal_name">Elife</span>, 5 Art. No. e14334 (2016)</p>
-
-<p class="publication">Falk Tillner, Prasad Thute, Steffen Löck, Antje Dietrich, Andriy Fursov, Robert Haase, Mathias Lukas, Bernd Rimarzig, Manfred Sobiella, Mechthild Krause, Michael Baumann, Rebecca Bütof, Wolfgang Enghardt<br/>
-<span class="pubtitle">Precise image-guided irradiation of small animals: a flexible non-profit platform.</span><br/>
-<span class="journal_name">Phys Med Biol</span>, 61(8) 3084-3108 (2016)</p>
-
-<p class="publication">Christopher Schmied, Peter Steinbach, Tobias Pietzsch, Stephan Preibisch, Pavel Tomancak<br/>
-<span class="pubtitle">An automated workflow for parallel processing of large multiview SPIM recordings.</span><br/>
-<span class="journal_name">Bioinformatics</span>, 32(7) 1112-1114 (2016)</p>
 
 <p class="publication">Michaela Müller-McNicoll, Valentina Botti, Antonio Domingues, Holger Brandl, Oliver D Schwich, Michaela Steiner, Tomaz Curk, Ina Poser, Kathi Zarnack, Karla M. Neugebauer<br/>
 <span class="pubtitle">SR proteins are NXF1 adaptors that link alternative RNA processing to mRNA export.</span><br/>
 <span class="journal_name">Genes Dev</span>, 30(5) 553-566 (2016)</p>
 
-<p class="publication">L Carine Stapel, Benoit Lombardot, Coleman Broaddus, Dagmar Kainmueller, Florian Jug, Eugene W Myers, Nadine Vastenhouw<br/>
-<span class="pubtitle">Automated detection and quantification of single RNAs at cellular resolution in zebrafish embryos.</span><br/>
-<span class="journal_name">Development</span>, 143(3) 540-546 (2016)</p>
-
 <p class="publication">Holger Brandl, HongKee Moon, Miquel Vila-Farré, Shang-Yun Liu, Ian Henry, Jochen Rink<br/>
 <span class="pubtitle">PlanMine - a mineable resource of planarian biology and biodiversity.</span><br/>
 <span class="journal_name">Nucleic Acids Res</span>, 44 Art. No. D764–D773 (2016)</p>
 
-<p class="publication">Mykola Mylenko, Sebastian Boland, Sider Penkov, Julio Sampaio, Benoit Lombardot, Daniela Vorkel, Jean-Marc Verbavatz, Teymuras V. Kurzchalia<br/>
-<span class="pubtitle">NAD+ Is a Food Component That Promotes Exit from Dauer Diapause in Caenorhabditis elegans.</span><br/>
-<span class="journal_name">PLoS ONE</span>, 11(12) Art. No. e0167208 (2016)</p>
-
 <p class="publication">Anja Zeigerer, Roman L Bogorad, Kirti Sharma, Jerome Gilleron, Sarah Seifert, Susanne Sales, Nikolaus Berndt, Sascha Bulik, Giovanni Marsico, Rochelle C J D'Souza, Naharajan Lakshmanaperumal, Kesavan Meganathan, Karthick Natarajan, Agapios Sachinidis, Andreas Dahl, Hermann-Georg Holzhütter, Andrej Shevchenko, Matthias Mann, Victor Koteliansky, Marino Zerial<br/>
 <span class="pubtitle">Regulation of Liver Metabolism by the Endosomal GTPase Rab5.</span><br/>
 <span class="journal_name">Cell Rep</span>, 11(6) 884-892 (2015)</p>
-
-<p class="publication">Stefan Kluth, Maria Grazia Pia, Thomas Schoerner-Sadenius, Peter Steinbach<br/>
-<span class="pubtitle">How do particle physicists learn the programming concepts they need?</span><br/>
-<i>
-In: 21ST INTERNATIONAL CONFERENCE ON COMPUTING IN HIGH ENERGY AND NUCLEAR PHYSICS (CHEP2015), PARTS 1-9</i>
-(2015) Ch. 62048 (Journal of Physics Conference Series ; 664,6), Bristol, UK, Institute of Physics Publishing (IOP) (2015)
-</p>
 
 <p class="publication">Marta Florio, Mareike Albert, Elena Taverna, Takashi Namba, Holger Brandl, Eric Lewitus, Christiane Haffner, Alex Sykes, Fong Kuan Wong, Jula Peters, E. Guhr, Sylvia Klemroth, Kay Prüfer, Janet Kelso, Ronald Naumann, Ina Nüsslein, Andreas Dahl, Robert Lachmann, Svante Pääbo, Wieland B. Huttner<br/>
 <span class="pubtitle">Human-specific gene ARHGAP11B promotes basal progenitor amplification and neocortex expansion.</span><br/>
@@ -246,3 +205,15 @@ In: 21ST INTERNATIONAL CONFERENCE ON COMPUTING IN HIGH ENERGY AND NUCLEAR PHYSIC
 <p class="publication">Simone Fietz, Robert Lachmann, Holger Brandl, Martin Kircher, Nikolay Samusik, Roland Schröder, Naharajan Lakshmanaperumal, Ian Henry, Johannes Vogt, Axel Riehn, Wolfgang Distler, Robert Nitsch, Wolfgang Enard, Svante Pääbo, Wieland B. Huttner<br/>
 <span class="pubtitle">Transcriptomes of germinal zones of human and mouse fetal neocortex suggest a role of extracellular matrix in progenitor self-renewal.</span><br/>
 <span class="journal_name">Proc Natl Acad Sci U.S.A.</span>, 109(29) 11836-11841 (2012)</p>
+
+<p class="publication">Minna-Liisa Änkö, Michaela Müller-McNicoll, Holger Brandl, Tomaz Curk, Crtomir Gorup, Ian Henry, Jernej Ule, Karla M. Neugebauer<br/>
+<span class="pubtitle">The RNA-binding landscapes of two SR proteins reveal unique functions and binding to diverse RNA classes.</span><br/>
+<span class="journal_name">Genome Biol</span>, 13(3) Art. No. R17 (2012)</p>
+
+<p class="publication">Ivana Viktorinova, Lucie Kucerova, Marta Bohmova, Ian Henry, Marek Jindra, Petr Dolezal, Martina Zurovcova, Michal Zurovec<br/>
+<span class="pubtitle">Characterization of two closely related α-amylase paralogs in the bark beetle, Ips typographus (L.).</span><br/>
+<span class="journal_name">Arch Insect Biochem Physiol</span>, 77(4) 179-198 (2011)</p>
+
+<p class="publication">Minna-Liisa Änkö, Lucia Morales, Ian Henry, Andreas Beyer, Karla M. Neugebauer<br/>
+<span class="pubtitle">Global analysis reveals SRp20- and SRp75-specific mRNPs in cycling and neural cells.</span><br/>
+<span class="journal_name">Nat Struct Mol Biol</span>, 17(8) 962-970 (2010)</p>
