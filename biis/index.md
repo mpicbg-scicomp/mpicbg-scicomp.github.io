@@ -11,6 +11,40 @@ The BioImage informatics team provides informatics tools and training to support
 
 ## Image Analysis Services
 
+* Image Preparation
+  * Registration
+  * Deconvolution
+  * bleaching / bleed-through correction
+  
+  
+* Object definition
+  * Detection and segmentation
+  * Define regions, points and lines that represent biological objects
+
+
+* Characterization
+  * object measures are used to test hypothesis and assess the model characterizing a particular biological phenomena
+
+* Interaction, Visualisation, Automation
+  * throughout the different analysis steps above users need to input information and assess analysis results
+  * we provide tools to make this analysis more streamlined and reproducible
+
+## Service types
+* We provide a walk-in service for short questions or projects here we can demonstrate tools of interest and provide direct, almost instantaneous help
+* For more complex projects, planned consulting sessions allow us to discuss project specifics in more detail in order to  designing a custom analysis pipeline
+* This can lead to the development of custom scripts and plugins that automate analysis tasks in the proposed pipeline.
+* Besides direct support the service also provides image analysis courses to raise awareness about specific tools and their usage
+
+## Software supported
+* Fiji/ImageJ
+* Imaris
+* Matlab
+* Huygens
+* Cell profilier
+* Illastik
+* Knime
+* R/Rstudio
+
 ## Publications
 <style type="text/css">
     .pubtitle{
