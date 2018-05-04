@@ -6,6 +6,9 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 
 
 ### NGS applications
+
+NGS data analysis workflows are designed to run in an HPC environment and include automated report generation using R/markdown, linking to underlying source data and/or QC reports
+
 <table style="text-align:center;">
   <tr>
     <th><i>Step</i></th>
@@ -124,8 +127,11 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   </tr>
 </table>
 
+* we are currently also developing a RNA-seq analysis workflow single cell data
+
 ### Useful links
 [Bioinformatics gitlab repo](https://git.mpi-cbg.de/bioinfo)
+
 [Scientific Computing gitlab repo](https://git.mpi-cbg.de/scicomp)
 
 ### Publications
