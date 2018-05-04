@@ -6,9 +6,9 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 
 |  | Name | Job Title | Interests |
 | --- | --- | --- | --- |
-| <img src="./Ian_Image.png" width="70">| Ian Henry | Facility Leader | Info here |
-| <img src="./Holger_Image.jpg" width="70">| Holger Brandl | Senior Data Engineer | Info here |
-| <img src="./Lena_Image.jpg" width="70">| Lena Hersemann | Bioinformatician | Info here |
+| <img src="../Ian_Image.png" width="70">| Ian Henry | Facility Leader | Info here |
+| <img src="../Holger_Image.jpg" width="70">| Holger Brandl | Senior Data Engineer | Info here |
+| <img src="../Lena_Image.jpg" width="70">| Lena Hersemann | Bioinformatician | Info here |
 
 ### Classical Bioinformatics
 
