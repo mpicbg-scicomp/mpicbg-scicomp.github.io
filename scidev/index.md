@@ -17,6 +17,7 @@ The scientific software development team designs, constructs, and deploys scient
     * Wet-lab biologists @ MPI-CBG
     * Scientific community as a whole
 
+
 * Guidance support and training to
   * Help scientists improve research code and turn it into distributable applications
 and packages
