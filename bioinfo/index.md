@@ -4,6 +4,24 @@
 
 The bioinformatics team assists MPI-CBG scientists with a wide range of bioinformatics data analysis tasks.  Services range from small scale single gene or protein characterization up to global studies involving deep sequencing technologies.
 
+|  | Name | Job Title | Interests |
+| --- | --- | --- | --- |
+| <img src="./Ian_Image.png" width="70">| Ian Henry | Facility Leader | Info here |
+| <img src="./Holger_Image.jpg" width="70">| Holger Brandl | Senior Data Engineer | Info here |
+| <img src="./Lena_Image.jpg" width="70">| Lena Hersemann | Bioinformatician | Info here |
+
+### Classical Bioinformatics
+
+#### Sequence Analysis
+* Protein sequence analysis & functional prediction
+* DNA/RNA sequence analysis
+
+#### Evolutionary Analysis
+* Phylogenetic tree construction
+* Orthologue / Paralogue searching
+
+#### Structural Analysis
+* Protein/RNA structure prediction
 
 ### NGS applications
 
@@ -126,6 +144,13 @@ NGS data analysis workflows are designed to run in an HPC environment and includ
     <td>Bed files, HTML Report, Tab-delimited files</td>
   </tr>
 </table>
+
+### Bioinformatics Software Development
+* Scripting and small tools (R/Python)
+* Plugin development for Geneious Pro
+* Large workflow design & implementation
+* Large data handling, visualization & exploration
+* Interactive data presentation (R/Shiny)
 
 ### Useful links
 [Bioinformatics gitlab repo](https://git.mpi-cbg.de/bioinfo)
