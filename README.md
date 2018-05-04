@@ -15,15 +15,3 @@ The Scientific Computing Facility provides a unified service to assist researche
 | <img src="./HongKee_Image.jpg" width="70">| HongKee Moon | Senior Software Developer | Info here |
 | <img src="./Benoit_Image.jpg" width="70">| Benoit Lombardot | Senior Image Analyst | Info here |
 | <img src="./Gayathri_Image.jpg" width="70">| Gayathri Nadar | Image Analyst | Info here |
-
-### Bioinformatics Team
-
-The bioinformatics team assists MPI-CBG scientists with a wide range of bioinformatics data analysis tasks.  Services range from small scale single gene or protein characterization up to global studies involving deep sequencing technologies.
-
-### Scientific Software Development Team
-
-The scientific software development team designs, constructs, and deploys scientific applications within the MPI-CBG. It also ensures that software created within the institute is of the highest quality.
-
-### BioImage Informatics Team
-
-The BioImage informatics team provides informatics tools and training to support the analysis of images in biological studies.  
