@@ -8,15 +8,15 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 ### NGS applications
 <table style="text-align:center;">
   <tr>
-    <th><b>Step</b></th>
-    <th><b>Tool</b></th>
-    <th><b>Deliverable</b></th>
+    <th><i>Step</i></th>
+    <th><i>Tool</i></th>
+    <th><i>Deliverable</i></th>
   </tr>
   
   <tr><td colspan="3"></td></tr>
   
   <tr>
-    <td colspan="3">Steps common to all workflows</td>
+    <td colspan="3" style="background:red;"><b>Steps common to all workflows</b></td>
   </tr>
     <tr>
     <td>Reads QC</td>
@@ -32,7 +32,7 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
   <tr><td colspan="3"></td></tr>
   
   <tr>
-    <td colspan="3">Transcriptome Profiling*</td>
+  <td colspan="3" style="background:blue;"><b>Transcriptome Profiling*</b></td>
   </tr>
     <tr>
     <td>Alignment</td>
