@@ -1,4 +1,4 @@
-| Overview | [Bioinformatics](./bioinfo/index.md) | [BioImage Informatics](./biis/index.md) | [Scientific Software Development](./scidev/index.md) | [HPC](./hpc/index.md) | [Teaching](./teaching/index.md)
+| Overview | [Bioinformatics](./bioinfo/index.md) | [BioImage Informatics](./biis/index.md) | [Scientific Software Dev](./scidev/index.md) | [HPC](./hpc/index.md) | [Teaching](./teaching/index.md)
 
 ## Scientific Computing Facility Overview
 
