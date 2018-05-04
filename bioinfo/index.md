@@ -8,12 +8,49 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 ### NGS applications
 <table>
   <tr>
-    <td>One</td>
-    <td>Two</td>
+    <td>Step</td>
+    <td>Tool</td>
+    <td>Deliverable</td>
+  </tr>
+  
+  <tr>
+    <td colspan="3">Steps common to all workflows</td>
+  </tr>
+  
+  <tr>
+    <td>Reads QC</td>
+    <td>FastQC</td>
+    <td>Html Report</td>
   </tr>
   <tr>
-    <td colspan="2">Three</td>
+    <td>Functional Analysis</td>
+    <td>ClusterProfiler (R), PathView (R), KEGGRest (R), Enrichr, WCGNA</td>
+    <td>HTML report, Tab-delimited files, charts</td>
+  </tr>
+  
+  <tr>
+    <td colspan="3">Transcriptome Profiling*</td>
+  </tr>
+  
+  <tr>
+    <td>Alignment</td>
+    <td>STAR</td>
+    <td>QC HTML report & Bam files</td>
+  </tr>
+  <tr>
+    <td>Quantification</td>
+    <td>HTSeq or FeatureCounts (STAR)</td>
+    <td>Count tables & HTML report</td>
+  </tr>
+  <tr>
+    <td>Differential Expression</td>
+    <td>DESeq2, DEXSeq, CuffDiff</td>
+    <td>HTML Report, Tab-delimited files</td>
   </tr>
 </table>
 
 ### Useful links
+[Bioinformatics gitlab repo](https://git.mpi-cbg.de/bioinfo)
+[Scientific Computing gitlab repo](https://git.mpi-cbg.de/scicomp)
+
+### Publications
