@@ -6,18 +6,18 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
 
 
 ### NGS applications
-<table>
+<table align="center">
   <tr>
-    <td>Step</td>
-    <td>Tool</td>
-    <td>Deliverable</td>
+    <td><b>Step</b></td>
+    <td><b>Tool</b></td>
+    <td><b>Deliverable</b></td>
   </tr>
+  <tr></tr>
   
   <tr>
     <td colspan="3">Steps common to all workflows</td>
   </tr>
-  
-  <tr>
+    <tr>
     <td>Reads QC</td>
     <td>FastQC</td>
     <td>Html Report</td>
@@ -27,12 +27,12 @@ The bioinformatics team assists MPI-CBG scientists with a wide range of bioinfor
     <td>ClusterProfiler (R), PathView (R), KEGGRest (R), Enrichr, WCGNA</td>
     <td>HTML report, Tab-delimited files, charts</td>
   </tr>
+  <tr></tr>
   
   <tr>
     <td colspan="3">Transcriptome Profiling*</td>
   </tr>
-  
-  <tr>
+    <tr>
     <td>Alignment</td>
     <td>STAR</td>
     <td>QC HTML report & Bam files</td>
