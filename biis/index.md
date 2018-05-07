@@ -10,7 +10,8 @@ The BioImage informatics team provides informatics tools and training to support
 | <img src="../Gayathri_Image.jpg" width="70">| Gayathri Nadar | Image Analyst | Info here |
 
 ## Image Analysis Services
-
+ <img src="./BIIS_workflow.png" width=100%>
+ 
 * Image Preparation
   * Registration
   * Deconvolution
