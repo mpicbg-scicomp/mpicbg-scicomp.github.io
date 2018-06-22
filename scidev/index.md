@@ -57,6 +57,10 @@ In: High performance computing : ISC High Performance 2016 international worksho
 <span class="pubtitle">An automated workflow for parallel processing of large multiview SPIM recordings.</span><br/>
 <span class="journal_name">Bioinformatics</span>, 32(7) 1112-1114 (2016)</p>
 
+<p class="publication">Anurag Priyam, Ben J Woodcroft, Vivek Rai, Alekhya Munagala, Ismail Moghul, Filip Ter, Mark Anthony Gibbins, HongKee Moon, Guy Leonard, Wolfgang Rumpf, Yannick Wurm<br/>
+<span class="pubtitle">Sequenceserver: a modern graphical user interface for custom BLAST databases.</span><br/>
+<span class="journal_name">Biorxiv</span> (2015): 033142</p>
+
 <p class="publication">Stefan Kluth, Maria Grazia Pia, Thomas Schoerner-Sadenius, Peter Steinbach<br/>
 <span class="pubtitle">How do particle physicists learn the programming concepts they need?</span><br/>
 <i>
