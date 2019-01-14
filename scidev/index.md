@@ -35,6 +35,10 @@ and packages
     }
 </style>
 
+<p class="publication">Andrei Rozanski, HongKee Moon, Holger Brandl, José M Martín-Durán, Markus Grohme, Katja Hüttner, Kerstin Bartscherer, Ian Henry, Jochen Rink<br/>
+<span class="pubtitle">PlanMine 3.0-improvements to a mineable resource of flatworm biology and biodiversity.</span><br/>
+<span class="journal_name">Nucleic Acids Res</span>, 47 Art. No. D812–D820 (2018)</p>
+
 <p class="publication">Peter Steinbach, Matthias Werner<br/>
 <span class="pubtitle">gearshifft – The FFT Benchmark Suite for Heterogeneous Platforms</span><br/>
 <i>
